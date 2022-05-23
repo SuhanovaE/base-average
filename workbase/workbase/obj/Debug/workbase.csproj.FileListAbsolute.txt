@@ -1,0 +1,17 @@
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase_MarkupCompile.cache
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase_MarkupCompile.lref
+C:\Users\Студент\Desktop\workbase\workbase\bin\Debug\workbase.exe.config
+C:\Users\Студент\Desktop\workbase\workbase\bin\Debug\workbase.exe
+C:\Users\Студент\Desktop\workbase\workbase\bin\Debug\workbase.pdb
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.g.resources
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.Properties.Resources.resources
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.exe
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\workbase.pdb
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\AddPeople.g.cs
+C:\Users\Студент\Desktop\workbase\workbase\obj\Debug\AddPeople.baml
